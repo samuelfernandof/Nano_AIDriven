@@ -25,4 +25,6 @@ Papers and git about the use of AI for nanoscale and scanning probe microscope:
 
 10. [INSPIRAÇÃO] Nanofabricação robótica autônoma por meio da manipulação de moléculas individuais. Abordagem usando aprendizagem por reforço (RL) encontra estratégias de solução mesmo em face de grande incerteza e feedback esparso. Potencial do RL para remover moléculas de forma autônoma com um microscópio de sonda de varredura de uma estrutura supramolecular: https://www.science.org/doi/10.1126/sciadv.abb6987
 
-https://github.com/Maltimore/robotic_nanofabrication
+![alt text](https://www.science.org/cms/10.1126/sciadv.abb6987/asset/1ae9b218-2617-4b28-8c0d-8ad97226ca2b/assets/graphic/abb6987-f1.jpeg)
+
+git@github.com:Maltimore/robotic_nanofabrication.git
