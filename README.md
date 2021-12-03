@@ -3,7 +3,11 @@
 
 # Nano AI-Drive </p>
 
-Papers and git about the use of AI for nanoscale and scanning probe microscope: 
+Papers about the use of AI for nanoscale and scanning probe microscope: 
+
+#### Introduction: Combining Machine Learning and Computational Chemistry for Predictive Insights Into Chemical Systems
+
+https://arxiv.org/abs/2102.06321
 
 1. Atomic-Level structural engineering of graphene: A convolutional neural network (CNN) is used for identification of the atom positions, their element-specific contrast, and the resulting topology: 
 
@@ -43,12 +47,30 @@ https://arxiv.org/abs/1803.07059
 
 https://iopscience.iop.org/article/10.1088/2632-2153/ab7d2f/meta
 
-10. TOP 1 Autonomous robotic nanofabrication with reinforcement learning: Here, we present a strategy to work around both obstacles and demonstrate autonomous robotic nanofabrication by manipulating single molecules. Our approach uses reinforcement learning (RL), which finds solution strategies even in the face of large uncertainty and sparse feedback. We demonstrate the potential of our RL approach by removing molecules autonomously with a scanning probe microscope from a supramolecular structure. Our RL agent reaches an excellent performance, enabling us to automate a task that previously had to be performed by a human.
+10. TOP! Autonomous robotic nanofabrication with reinforcement learning: Here, we present a strategy to work around both obstacles and demonstrate autonomous robotic nanofabrication by manipulating single molecules. Our approach uses reinforcement learning (RL), which finds solution strategies even in the face of large uncertainty and sparse feedback. We demonstrate the potential of our RL approach by removing molecules autonomously with a scanning probe microscope from a supramolecular structure. Our RL agent reaches an excellent performance, enabling us to automate a task that previously had to be performed by a human.
  
 
 https://www.science.org/doi/10.1126/sciadv.abb6987
 
 ![alt text](https://www.science.org/cms/10.1126/sciadv.abb6987/asset/1ae9b218-2617-4b28-8c0d-8ad97226ca2b/assets/graphic/abb6987-f1.jpeg)
+
+From: Momalab http://momalab.org/index.php/?action=index 
+
+#### Bonus:
+
+Perspectives of Molecular Manipulation and Fabrication (Book) https://www.springerprofessional.de/en/perspectives-of-molecular-manipulation-and-fabrication/13280370
+
+Control on a molecular scale: A perspective: https://ieeexplore.ieee.org/document/7525387
+
+
+#### Oculus Rift virtual reality goggles to hand-controlled manipulation with 3D visual feedback that displays the currently executed tip trajectory and the position of the SPM tip during manipulation in real time.
+
+1. Hand controlled manipulation of single molecules via a scanning probe microscope with a 3D virtual reality interface by P. Leinen, M. F. B. Green, T. Esat, C. Wagner, F. S. Tautz, and R. Temirov, J. Vis. Exp. 116, e54506 (2016)
+
+2. Virtual reality visual feedback for hand-controlled scanning probe microscopy manipulation of single molecules by P. Leinen, M. F. B. Green, T. Esat, C. Wagner, F. S. Tautz, and R. Temirov, Beilstein J. Nanotechnol. 6, 2148 (2015)
+
+
+
 
 git@github.com: Maltimore/robotic_nanofabrication.git
 
