@@ -58,9 +58,14 @@ From: Momalab http://momalab.org/index.php/?action=index
 
 #### Bonus:
 
-Perspectives of Molecular Manipulation and Fabrication (Book) https://www.springerprofessional.de/en/perspectives-of-molecular-manipulation-and-fabrication/13280370
+Perspectives of Molecular Manipulation and Fabrication (Book): https://www.springerprofessional.de/en/perspectives-of-molecular-manipulation-and-fabrication/13280370
 
 Control on a molecular scale: A perspective: https://ieeexplore.ieee.org/document/7525387
+
+Machine Learning for Molecular Simulation Annual Review of Physical Chemistry: https://www.annualreviews.org/doi/10.1146/annurev-physchem-042018-052331
+
+Multiscale Dynamics Simulations: Nano and Nano-bio Systems in Complex Environments (Book): https://pubs.rsc.org/en/content/ebook/978-1-83916-178-0
+
 
 
 #### Oculus Rift virtual reality goggles to hand-controlled manipulation with 3D visual feedback that displays the currently executed tip trajectory and the position of the SPM tip during manipulation in real time: 
@@ -113,10 +118,11 @@ https://www.sciencedirect.com/science/article/pii/S1369702109701567
 https://www.sciencedirect.com/science/article/abs/pii/S174801321930502X
 
 
+#### Simulators: 
 
+Atomic Simulation Environment (ASE) - Python https://gitlab.com/ase/ase.git
 
-
-
+AtomAI Python package for machine learning-based analysis of experimental atomic-scale and mesoscale data from electron and scanning probe microscopes https://github.com/pycroscopy/AICrystallographer.git
 
 
 
