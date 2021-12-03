@@ -63,7 +63,7 @@ Perspectives of Molecular Manipulation and Fabrication (Book) https://www.spring
 Control on a molecular scale: A perspective: https://ieeexplore.ieee.org/document/7525387
 
 
-#### Oculus Rift virtual reality goggles to hand-controlled manipulation with 3D visual feedback that displays the currently executed tip trajectory and the position of the SPM tip during manipulation in real time.
+#### Oculus Rift virtual reality goggles to hand-controlled manipulation with 3D visual feedback that displays the currently executed tip trajectory and the position of the SPM tip during manipulation in real time: 
 
 1. Hand controlled manipulation of single molecules via a scanning probe microscope with a 3D virtual reality interface by P. Leinen, M. F. B. Green, T. Esat, C. Wagner, F. S. Tautz, and R. Temirov, J. Vis. Exp. 116, e54506 (2016)
 
