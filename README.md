@@ -84,7 +84,7 @@ git@github.com: Maltimore/robotic_nanofabrication.git
 
 
 
-### Biomolecular Machines: From diatoms to silica-based biohybrids and Self-Assmebly:
+### Biomolecular Machines: From diatoms to silica-based biohybrids and Self-Assemebly:
 
 1. From diatoms to silica-based biohybrids: Diatom nanotechnology is becoming a new field of research where biologists and materials scientists are working together!
 https://pubs.rsc.org/en/content/articlelanding/2011/cs/c0cs00122h/unauth
