@@ -5,26 +5,53 @@
 
 Papers and git about the use of AI for nanoscale and scanning probe microscope: 
 
-1. Engenharia estrutural de nível atômico de grafeno usando uma rede neural convolucional (CNN) para identificação das posições dos átomos, seu contraste específico do elemento e a topologia resultante (Alberto Trentino): https://pubs.acs.org/doi/10.1021/acs.nanolett.1c01214#
+1. Atomic-Level structural engineering of graphene: A convolutional neural network (CNN) is used for identification of the atom positions, their element-specific contrast, and the resulting topology: 
 
-2. Ambiente de simulação atômica (ASE), um pacote de software escrito na linguagem Python com o objetivo de configurar, direcionar e analisar simulações atomísticas: https://wiki.fysik.dtu.dk/ase/index.html https://gitlab.com/ase/ase
+https://pubs.acs.org/doi/10.1021/acs.nanolett.1c01214#
 
-3. Algoritmo de aprendizado de máquina com uma rede neural convolucional que pode ser treinada com um conjunto limitado de configurações moleculares para recuperação estrutural de uma molécula complexa e grande, Fenchone (C 10 H 16O), a partir de dados de difração de elétrons induzida por laser (LIED): https://www.nature.com/articles/s42004-021-00594-z
+2. The Atomic Simulation Environment (ASE) is a set of tools and Python modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations: 
 
-4. Incorporando heurísticas humanas em microscopia de sondagem habilitada para aprendizado de máquina. Várias estratégias pelas quais diferentes classes de imagem STM (decorrentes de mudanças no estado da ponta) podem ser corretamente identificadas a partir de varreduras parciais. Ao empregar uma rede temporal secundária e uma janela de rolamento de um pequeno grupo de scanlines individuais, a avaliação da ponta é possível com uma pequena fração de uma imagem completa (Philip Moriarty): https://iopscience.iop.org/.../10.1088/2632-2153/ab42ec/meta
+https://wiki.fysik.dtu.dk/ase/index.html https://gitlab.com/ase/ase
 
-5. Pesquisa automatizada e identificação de nanoestruturas auto-organizadas combinando simulações de Monte Carlo, estatísticas gerais e aprendizado de máquina para distinguir automaticamente vários padrões espacialmente correlacionados em um conjunto de dados mistos e altamente variados de imagens AFM reais de nanopartículas auto-organizadas (Philip Moriarty): https://pubs.acs.org/doi/10.1021/acs.nanolett.0c03213
+3. Machine learning for laser-induced electron diffraction imaging of molecular structures: Combining electron diffraction with machine learning presents new opportunities to image complex and larger molecules in static and time-resolved studies: 
 
-6. Melhorando a segmentação de imagens de microscópio de sonda de varredura usando redes neurais convolucionais: https://iopscience.iop.org/.../10.1088/2632-2153/abc81c/meta
+https://www.nature.com/articles/s42004-021-00594-z
 
-7. Rede neural convolucional para localizar e diferenciar as características da superfície da superfície de silício terminada em hidrogênio tecnologicamente relevante, capturada por meio de um microscópio de tunelamento de varredura (Robert Wolkow): https://iopscience.iop.org/article/10.1088/2632-2153/ab6d5e
+4. Embedding human heuristics in machine-learning-enabled probe microscopy: The very small number of machine learning approaches to probe microscopy published to date, however, involve classifications based on full images. Given that data acquisition is the most time-consuming task during routine tip conditioning, automated methods are thus currently extremely slow in comparison to the tried-and-trusted strategies and heuristics used routinely by probe microscopists (Philip Moriarty): 
 
-8. Métodos automatizados baseados em aprendizado de máquina para detectar e recondicionar automaticamente a qualidade da sonda de um microscópio de tunelamento de varredura: https://arxiv.org/abs/1803.07059
+https://iopscience.iop.org/article/10.1088/2632-2153/ab42ec/meta
 
-9. [IMPORTANTE] Aprendizado de máquina em escala (sub) atômica: microscopia de sonda de varredura de última geração. Perspectivas emocionantes de uma mudança radical em nossa capacidade de mapear e modificar a matéria no nível atômico/ molecular, incorporando algoritmos de aprendizado de máquina em microscopia de varredura por sonda (com um foco particular na microscopia de tunelamento de varredura, STM). Esta abordagem híbrida nano-AI tem o potencial de longo alcance para realizar uma tecnologia capaz de análise automatizada, atuação e montagem de matéria com uma precisão até o limite de ligação química única: https://iopscience.iop.org/.../2632-2153/ab7d2f/meta...
+5. Automated Searching and Identification of Self-Organized Nanostructures: use a combination of Monte Carlo simulations, general statistics, and machine learning to automatically distinguish several spatially correlated patterns in a mixed, highly varied data set of real AFM images of self-organized nanoparticles: 
 
-10. [INSPIRAÇÃO] Nanofabricação robótica autônoma por meio da manipulação de moléculas individuais. Abordagem usando aprendizagem por reforço (RL) encontra estratégias de solução mesmo em face de grande incerteza e feedback esparso. Potencial do RL para remover moléculas de forma autônoma com um microscópio de sonda de varredura de uma estrutura supramolecular: https://www.science.org/doi/10.1126/sciadv.abb6987
+https://pubs.acs.org/doi/10.1021/acs.nanolett.0c03213
+
+6. Improving the segmentation of scanning probe microscope images using convolutional neural networks. Segmentation strategy using the U-Net convolutional neural network has some benefits over traditional automated approaches and has particular potential in the processing of images of nanostructured systems:
+
+https://iopscience.iop.org/article/10.1088/2632-2153/abc81c/meta
+
+
+7. Automation method for the identification of defects prior to atomic fabrication via hydrogen lithography using deep learning. We trained a convolutional neural network to locate and differentiate between surface features of the technologically relevant hydrogen-terminated silicon surface imaged using a scanning tunneling microscope. (Robert Wolkow): 
+
+https://iopscience.iop.org/article/10.1088/2632-2153/ab6d5e
+
+8. Automated methods based on machine learning to automatically detect and recondition the quality of the probe of a scanning tunneling microscope: 
+
+https://arxiv.org/abs/1803.07059
+
+9. TOP [REVIEW] Machine learning at the (sub)atomic scale: next generation scanning probe microscopy: We discuss the exciting prospects for a step change in our ability to map and modify matter at the atomic/molecular level by embedding machine learning algorithms in scanning probe microscopy (with a particular focus on scanning tunnelling microscopy, STM). This nano-AI hybrid approach has the far-reaching potential to realise a technology capable of the automated analysis, actuation, and assembly of matter with a precision down to the single chemical bond limit. >>>>>> Are the nanobots nigh? "Extending the Millipede methodology to the atomic level, combined with autonomous control and correction of the apices of the tip array, would enable a dramatic step change in our control of matter with atomic precision": 
+ 
+
+https://iopscience.iop.org/article/10.1088/2632-2153/ab7d2f/meta
+
+10. TOP 1 Autonomous robotic nanofabrication with reinforcement learning: Here, we present a strategy to work around both obstacles and demonstrate autonomous robotic nanofabrication by manipulating single molecules. Our approach uses reinforcement learning (RL), which finds solution strategies even in the face of large uncertainty and sparse feedback. We demonstrate the potential of our RL approach by removing molecules autonomously with a scanning probe microscope from a supramolecular structure. Our RL agent reaches an excellent performance, enabling us to automate a task that previously had to be performed by a human.
+ 
+
+https://www.science.org/doi/10.1126/sciadv.abb6987
 
 ![alt text](https://www.science.org/cms/10.1126/sciadv.abb6987/asset/1ae9b218-2617-4b28-8c0d-8ad97226ca2b/assets/graphic/abb6987-f1.jpeg)
 
 git@github.com:Maltimore/robotic_nanofabrication.git
+
+
+
+
