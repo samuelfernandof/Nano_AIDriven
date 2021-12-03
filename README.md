@@ -55,3 +55,48 @@ git@github.com: Maltimore/robotic_nanofabrication.git
 
 
 
+
+
+### Biomolecular Machines: From diatoms to silica-based biohybrids and Self-Assmebly:
+
+1. From diatoms to silica-based biohybrids: Diatom nanotechnology is becoming a new field of research where biologists and materials scientists are working together!
+https://pubs.rsc.org/en/content/articlelanding/2011/cs/c0cs00122h/unauth
+
+2. Diatom Nanotechnology provides a comprehensive overview of the material and its uses. The first part of the book looks at the distinctive porous silica structure of diatoms, the mechanism of their formation and their properties. Individual chapters then explore the broad range of their applications in nanotechnology including nanofabrication, optical biosensors, gas sensors, water purifications, photonics, drug delivery, batteries, solar cells, supercapacitors, new adsorbents and composite materials.
+https://www.amazon.com.br/Diatom-Nanotechnology-Progress-Applications-Nanoscience-ebook/dp/B078KZWQ1K
+
+3. Biomimetic and bioinspired silica: recent developments and applications
+https://pubs.rsc.org/en/content/articlelanding/2011/cc/c0cc05648k/unauth
+
+4. All New Faces of Diatoms: Potential Source of Nanomaterials and Beyond
+https://www.frontiersin.org/articles/10.3389/fmicb.2017.01239/full
+
+5. Diatoms with Invaluable Applications in Nanotechnology, Biotechnology, and Biomedicine: Recent Advances (2021)
+https://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.1c00475
+
+6. Diatoms: Self assembled silica nanostructures, and templates for bio/chemical sensors and biomimetic membranes
+https://pubs.rsc.org/en/content/articlelanding/2011/an/c0an00602e
+
+7. Nanoscale Self-Assembly for Therapeutic Delivery
+https://www.frontiersin.org/articles/10.3389/fbioe.2020.00127/full
+
+8. A Matter of Size Book (Philip Moriarty)
+Chapter: 5 Molecular Self-Assembly
+https://www.nap.edu/read/11752/chapter/1
+
+9. Nanofabrication by self-assembly
+https://www.sciencedirect.com/science/article/pii/S1369702109701567
+
+10. Nanofabrication approaches for functional three-dimensional architectures by self-assembly
+https://www.sciencedirect.com/science/article/abs/pii/S174801321930502X
+
+
+
+
+
+
+
+
+
+
+
