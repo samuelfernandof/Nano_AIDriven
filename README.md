@@ -3,7 +3,7 @@
 
 # Nano AI-Driven </p>
 
-Papers about the use of AI for nanoscale and scanning probe microscope: 
+Papers about the use of AI for nanoscale and scanning microscope: 
 
 #### Introduction: Combining Machine Learning and Computational Chemistry for Predictive Insights Into Chemical Systems
 
