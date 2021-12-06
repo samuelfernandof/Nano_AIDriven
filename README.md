@@ -86,6 +86,10 @@ git@github.com: Maltimore/robotic_nanofabrication.git
 
 ### Biomolecular Machines: From diatoms to silica-based biohybrids and Self-Assemebly:
 
+0. Diatoms with Invaluable Applications in Nanotechnology, Biotechnology, and Biomedicine: Recent Advances: The micro- to nanoscale properties of the diatom frustules have garnered a great deal of attention for their application in diverse areas of nanotechnology and biotechnology, such as bioimaging/biosensing, biosensors, drug/gene delivery, photodynamic therapy, microfluidics, biophotonics, solar cells, and molecular filtrations.
+https://pubs.acs.org/doi/10.1021/acsbiomaterials.1c00475
+
+
 1. From diatoms to silica-based biohybrids: Diatom nanotechnology is becoming a new field of research where biologists and materials scientists are working together!
 https://pubs.rsc.org/en/content/articlelanding/2011/cs/c0cs00122h/unauth
 
