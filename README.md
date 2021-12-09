@@ -56,6 +56,13 @@ https://www.science.org/doi/10.1126/sciadv.abb6987
 
 From: Momalab http://momalab.org/index.php/?action=index 
 
+## NEW: Atomic Boltzmann machine
+
+Physical implementation of a BM directly in the stochastic spin dynamics of a gated ensemble of coupled cobalt atoms on the surface of semiconducting black phosphorus. Implementing the concept of orbital memory utilizing scanning tunnelling microscopy, we demonstrate the bottom-up construction of atomic ensembles whose stochastic current noise is defined by a reconfigurable multi-well energy landscape. Exploiting the anisotropic behaviour of black phosphorus, we build ensembles of atoms with two well-separated intrinsic time scales that represent neurons and synapses. By characterizing the conditional steady-state distribution of the neurons for given synaptic configurations, we illustrate that an ensemble can represent many distinct probability distributions. 
+
+https://arxiv.org/abs/2005.01547
+
+
 #### Bonus:
 
 Perspectives of Molecular Manipulation and Fabrication (Book): https://www.springerprofessional.de/en/perspectives-of-molecular-manipulation-and-fabrication/13280370
@@ -128,6 +135,9 @@ Atomic Simulation Environment (ASE) - Python https://gitlab.com/ase/ase.git
 
 AtomAI Python package for machine learning-based analysis of experimental atomic-scale and mesoscale data from electron and scanning probe microscopes https://github.com/pycroscopy/AICrystallographer.git
 
+PiNN: A Python Library for Building Atomic Neural Networks of Molecules and Materials 
+https://github.com/Teoroo-CMC/PiNN#:~:text=PiNN%20is%20a%20Python%20library,Yunqi%20Shao%20at%20Uppsala%20Unversiy.
+https://pubs.acs.org/doi/10.1021/acs.jcim.9b00994
 
 
 
