@@ -68,7 +68,7 @@ https://www.science.org/doi/10.1126/sciadv.abb6987
 
 From: Momalab http://momalab.org/index.php/?action=index 
 
-## NEW: Atomic Boltzmann machine
+#### NEW: Atomic Boltzmann machine
 
 Physical implementation of a BM directly in the stochastic spin dynamics of a gated ensemble of coupled cobalt atoms on the surface of semiconducting black phosphorus. Implementing the concept of orbital memory utilizing scanning tunnelling microscopy, we demonstrate the bottom-up construction of atomic ensembles whose stochastic current noise is defined by a reconfigurable multi-well energy landscape. Exploiting the anisotropic behaviour of black phosphorus, we build ensembles of atoms with two well-separated intrinsic time scales that represent neurons and synapses. By characterizing the conditional steady-state distribution of the neurons for given synaptic configurations, we illustrate that an ensemble can represent many distinct probability distributions. 
 
