@@ -3,6 +3,18 @@
 
 # Nano AI-Driven </p>
 
+### Concepts
+
+Molecular nanotechnology (MNT) is a technology based on the ability to build structures to complex, atomic specifications by means of mechanosynthesis. This is distinct from nanoscale materials. Based on Richard Feynman's vision of miniature factories using nanomachines to build complex products (including additional nanomachines), this advanced form of nanotechnology (or molecular manufacturing) would make use of positionally-controlled mechanosynthesis guided by molecular machine systems. MNT would involve combining physical principles demonstrated by biophysics, chemistry, other nanotechnologies, and the molecular machinery of life with the systems engineering principles found in modern macroscale factories.
+
+A molecular assembler, as defined by K. Eric Drexler, is a "proposed device able to guide chemical reactions by positioning reactive molecules with atomic precision". A molecular assembler is a kind of molecular machine. Some biological molecules such as ribosomes fit this definition. This is because they receive instructions from messenger RNA and then assemble specific sequences of amino acids to construct protein molecules. However, the term "molecular assembler" usually refers to theoretical human-made devices. A nanofactory is a proposed system in which nanomachines (resembling molecular assemblers, or industrial robot arms) would combine reactive molecules via mechanosynthesis to build larger atomically precise parts. These, in turn, would be assembled by positioning mechanisms of assorted sizes to build macroscopic (visible) but still atomically-precise products.
+
+
+Atomically precise manufacturing is manufacturing of artificial artifacts with at least topological atomic precision has a dedicated focus towards more advanced technology like gemstone metamaterial technology and its production devices gemstone metamaterial on-chip factories (featuring positional atomic precision all the way up to the macroscale). With atomic precision one refers to structures where the positions of all the included atoms are known in a topological sense meaning one knows which atom connects with which. An atomically precise structure may well be floppy such that thermal movement makes the actual positions of the atoms completely unknown. Many base structures for self assembly (in technology level 0 and technology level I) are examples for floppy AP structures e.g. short DNA half strands (oglionucleotides).
+In technology level I whole sturdy structures out of sturdy AP-building blocks are assembled in a digital fashion. One is dealing with atomically precise structures but one only needs sub block size positioning precision for positional assembly. In technology level II and technology level III diamondoid materials are the main building material. They allow not only the topological position but also the position in three dimensional space to be known (positional atomic precision). Atoms do roughly behave like a construction set with elastic linkages only if the right set of atoms is chosen. Metals with their undirected bonding tend to diffuse at room temperature destroying topological order and thus often do not preserve Atomic precision (AP) making them unsuitable for nanomachinery.
+
+
+
 Papers about the use of AI for nanoscale and scanning microscope: 
 
 #### Introduction: Combining Machine Learning and Computational Chemistry for Predictive Insights Into Chemical Systems
