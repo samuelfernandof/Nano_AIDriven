@@ -85,6 +85,7 @@ Machine Learning for Molecular Simulation Annual Review of Physical Chemistry: h
 
 Multiscale Dynamics Simulations: Nano and Nano-bio Systems in Complex Environments (Book): https://pubs.rsc.org/en/content/ebook/978-1-83916-178-0
 
+Autonomous Scanning Probe Microscopy in Situ Tip Conditioning through Machine Learning: https://pubs.acs.org/doi/10.1021/acsnano.8b02208
 
 
 #### Oculus Rift virtual reality goggles to hand-controlled manipulation with 3D visual feedback that displays the currently executed tip trajectory and the position of the SPM tip during manipulation in real time: 
