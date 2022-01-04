@@ -74,6 +74,20 @@ Physical implementation of a BM directly in the stochastic spin dynamics of a ga
 
 https://arxiv.org/abs/2005.01547
 
+Combining Machine Learning and Computational Chemistry for Predictive Insights Into Chemical Systems: This Review is written for new and experienced researchers working at the intersection of both fields. We first provide concise tutorials of computational chemistry and machine learning methods, showing how insights involving both can be achieved. We follow with a critical review of noteworthy applications that demonstrate how computational chemistry and machine learning can be used together to provide insightful (and useful) predictions in molecular and materials modeling, retrosyntheses, catalysis, and drug design.
+
+https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00107
+
+#### Quantum machine learning using atom-in-molecule-based
+
+We combine atom-in-molecule-based fragments, dubbed ‘amons’ (A), with active learning in transferable quantum machine learning (ML) models. The efficiency, accuracy, scalability and transferability of the resulting AML models is demonstrated for important molecular quantum properties such as energies, forces, atomic charges, NMR shifts and polarizabilities and for systems including organic molecules, 2D materials, water clusters, Watson–Crick DNA base pairs and even ubiquitin. Conceptually, the AML approach extends Mendeleev’s table to account effectively for chemical environments, which allows the systematic reconstruction of many chemistries from local building blocks.
+
+https://www.nature.com/articles/s41557-020-0527-z
+
+
+
+
+
 
 #### Bonus:
 
