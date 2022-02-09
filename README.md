@@ -1,4 +1,4 @@
-![alt text](https://scontent.fcpq5-1.fna.fbcdn.net/v/t39.30808-6/241554933_1023065051596290_7646170174352436475_n.png?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=fc8H6cM34pkAX_ZN59m&_nc_ht=scontent.fcpq5-1.fna&oh=00_AT9HmUxAczDpKztKSCYdiZW2YCcBNuFuLGXSuoO86IWK0Q&oe=61D0C0F0)
+![alt text](https://scontent.fcpq5-1.fna.fbcdn.net/v/t39.30808-6/241554933_1023065051596290_7646170174352436475_n.png?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEbYVdmuRQKJ-mSIHjb5zuZvhCHw__p-ae-EIfD_-n5pwNJ1Ox28Qry0Z539N379_gxVdXj9AqhYdz5tWSdY1aD&_nc_ohc=BFsmnM9BovEAX8lLt0X&_nc_ht=scontent.fcpq5-1.fna&oh=00_AT8z_3Xa0FJZw9iB74I-0B7WttIEh1iHiQJMmP5qT5skIg&oe=620A1A30)
 
 
 # Nano AI-Driven </p>
